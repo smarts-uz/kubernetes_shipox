@@ -1,0 +1,2 @@
+d:\Platform\Services\Cloudes\Aws.Amazon.com\Projects\EKS\weaveworks-gitops.awsworkshop.io\Using GitOps and EKS to Manage HA & DR
+\Platform\ \ \weaveworks-gitops.awsworkshop.io\ \Using GitOps and EKS to Manage HA & DR
